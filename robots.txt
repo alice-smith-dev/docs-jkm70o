@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ll08mh.originmovement.co.nz/sitemap.xml
